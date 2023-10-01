@@ -15,6 +15,7 @@ Project consists of a online game where you pair up the mathcing cards.
 
 <br>
 
+<h2>Project Overview</h2>
 
 Landing page (index.php)
 - navbar (changes depending on if the user is registered)
