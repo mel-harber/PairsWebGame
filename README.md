@@ -13,6 +13,8 @@ Project consists of a online game where you pair up the mathcing cards.
 - <b>JavaScript</b>
 - <b>PHP</b>
 
+<br>
+
 <p>
 Landing page (index.php)
 - navbar (changes depending on if the user is registered)
@@ -42,6 +44,4 @@ Leaderboard page (leaderboard.php)
 - responive table that shows results
 - leaderboard data is stored in a text file (only one score per user being their best one)
 
-
-Link to Azure VM: http://ml-lab-4d78f073-aa49-4f0e-ce2-31e5254052c7.ukwest.cloudapp.azure.com:57932/index.php
 </p>
