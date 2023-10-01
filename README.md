@@ -15,9 +15,9 @@ Project consists of a online game where you pair up the mathcing cards.
 
 <br>
 
-<p>
+
 Landing page (index.php)
-*navbar (changes depending on if the user is registered)
+- navbar (changes depending on if the user is registered)
 - link to approproate page depending on if the user is registered
 - set users cookies and session vairables
 
@@ -44,4 +44,4 @@ Leaderboard page (leaderboard.php)
 - responive table that shows results
 - leaderboard data is stored in a text file (only one score per user being their best one)
 
-</p>
+
