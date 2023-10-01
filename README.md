@@ -13,11 +13,11 @@ Project consists of a online game where you pair up the mathcing cards.
 - <b>JavaScript</b>
 - <b>PHP</b>
 
-<br><br/>
+<br>
 
 <p>
 Landing page (index.php)
-- navbar (changes depending on if the user is registered)
+*navbar (changes depending on if the user is registered)
 - link to approproate page depending on if the user is registered
 - set users cookies and session vairables
 
