@@ -13,7 +13,7 @@ Project consists of a online game where you pair up the mathcing cards.
 - <b>JavaScript</b>
 - <b>PHP</b>
 
-<br>
+<br><br/>
 
 <p>
 Landing page (index.php)
